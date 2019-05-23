@@ -1,0 +1,15 @@
+page{
+  background-color: #F5F5F5
+}
+
+.container{
+  padding: 10px 20px;
+  align-content: center;
+}
+
+.text-content{
+  padding: 10px;
+  align-content: center;
+  border-bottom: 1rpx solid #F5F5F5;
+  background-color: #FFFFFF
+}
